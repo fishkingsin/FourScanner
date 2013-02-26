@@ -9,7 +9,7 @@
             <sendOSC>1</sendOSC>
             <receiveOSC>1</receiveOSC>
             <min>0.000000000</min>
-            <max>751.000000000</max>
+            <max>668.000000000</max>
         </track>
         <track>
             <type>Curves</type>
@@ -19,7 +19,7 @@
             <sendOSC>1</sendOSC>
             <receiveOSC>1</receiveOSC>
             <min>0.000000000</min>
-            <max>161.000000000</max>
+            <max>100.000000000</max>
         </track>
         <track>
             <type>Audio</type>
@@ -28,13 +28,73 @@
             <displayName>audio</displayName>
             <sendOSC>0</sendOSC>
             <receiveOSC>0</receiveOSC>
-            <clip>/Users/jameskong/openframework/of_v0073_osx_release/apps/myApps/FourScanner/bin/data/03_Phat_Ass_Drop.mp3</clip>
+            <clip>/Users/jameskong/openframework/of_v0073_osx_release/apps/myApps/FourScanner/bin/data/03_Phat_Ass_Drop.aif</clip>
+        </track>
+        <track>
+            <type>Curves</type>
+            <xmlFileName>curves_1_.xml</xmlFileName>
+            <trackName>curves_1</trackName>
+            <displayName>POS2</displayName>
+            <sendOSC>1</sendOSC>
+            <receiveOSC>1</receiveOSC>
+            <min>0.000000000</min>
+            <max>668.000000000</max>
+        </track>
+        <track>
+            <type>Curves</type>
+            <xmlFileName>curves_2_.xml</xmlFileName>
+            <trackName>curves_2</trackName>
+            <displayName>SIZE2</displayName>
+            <sendOSC>1</sendOSC>
+            <receiveOSC>1</receiveOSC>
+            <min>0.000000000</min>
+            <max>100.000000000</max>
+        </track>
+        <track>
+            <type>Curves</type>
+            <xmlFileName>curves_3_.xml</xmlFileName>
+            <trackName>curves_3</trackName>
+            <displayName>POS3</displayName>
+            <sendOSC>1</sendOSC>
+            <receiveOSC>1</receiveOSC>
+            <min>0.000000000</min>
+            <max>668.000000000</max>
+        </track>
+        <track>
+            <type>Curves</type>
+            <xmlFileName>curves_4_.xml</xmlFileName>
+            <trackName>curves_4</trackName>
+            <displayName>SIZE3</displayName>
+            <sendOSC>1</sendOSC>
+            <receiveOSC>1</receiveOSC>
+            <min>0.000000000</min>
+            <max>100.000000000</max>
+        </track>
+        <track>
+            <type>Curves</type>
+            <xmlFileName>curves_5_.xml</xmlFileName>
+            <trackName>curves_5</trackName>
+            <displayName>POS4</displayName>
+            <sendOSC>1</sendOSC>
+            <receiveOSC>1</receiveOSC>
+            <min>0.000000000</min>
+            <max>668.000000000</max>
+        </track>
+        <track>
+            <type>Curves</type>
+            <xmlFileName>curves_6_.xml</xmlFileName>
+            <trackName>curves_6</trackName>
+            <displayName>SIZE4</displayName>
+            <sendOSC>1</sendOSC>
+            <receiveOSC>1</receiveOSC>
+            <min>0.000000000</min>
+            <max>100.000000000</max>
         </track>
     </page>
 </tracks>
 <timelineSettings>
     <duration>00:05:00:141</duration>
-    <playhead>00:00:18:912</playhead>
+    <playhead>00:00:37:181</playhead>
     <inpoint>00:00:00:000</inpoint>
     <outpoint>00:05:00:141</outpoint>
     <loop>0</loop>
