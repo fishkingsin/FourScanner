@@ -5,6 +5,12 @@
         <width>1280.000000000</width>
         <height>40.000000000</height>
     </element>
+    <element name="bangs">
+        <x>0.000000000</x>
+        <y>463.000000000</y>
+        <width>1280.000000000</width>
+        <height>40.000000000</height>
+    </element>
     <element name="colors">
         <x>0.000000000</x>
         <y>463.000000000</y>
@@ -56,6 +62,12 @@
     <element name="curves_6">
         <x>0.000000000</x>
         <y>655.000000000</y>
+        <width>1280.000000000</width>
+        <height>40.000000000</height>
+    </element>
+    <element name="flags">
+        <x>0.000000000</x>
+        <y>472.000000000</y>
         <width>1280.000000000</width>
         <height>40.000000000</height>
     </element>
